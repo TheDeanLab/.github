@@ -5,7 +5,7 @@ The **Dean Lab** is dedicated to the development and application of advanced mic
 
 ### Collaborations
 Our key collaborators include:
-- **Dr. Gaudenz Danuser** (*UT Southwestern Medical Center*)
+- **Dr. Gaudenz Danuser** (*Roche*)
 - **Dr. Reto Fiolka** (*UT Southwestern Medical Center*)
 - **Dr. Sean Morrison** (*UT Southwestern Medical Center*)
 - **Dr. Jim Amatruda** (*University of Southern California*)
